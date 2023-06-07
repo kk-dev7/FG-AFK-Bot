@@ -14,4 +14,4 @@ Download the latest version [here](https://www.python.org/downloads/)
 
 Then open Command Prompt, navigate to the FG-AFK-Bot directory, type `python -m pip install -r requirements.txt` and hit enter. 
 
-Finally, open Explorer, navigate to the FG-AFK-Bot directory, then double-click `FG_AFK_Bot.py`. Now you can convert your files! 
+Finally, open Explorer, navigate to the FG-AFK-Bot directory, then double-click `FG_AFK_Bot.py` to run the script.
