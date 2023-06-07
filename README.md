@@ -2,6 +2,13 @@
   <img src="./logo.png">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=plastic&logo=python&color=3c7cae&labelColor=ffd841&logoColor=3c7cae">
+  <img src="https://img.shields.io/badge/license-GPL-brightgreen.svg?style=plastic&logo=GNU&label=License">
+  <img src="https://img.shields.io/badge/version-1.0.-blue.svg?style=plastic&logo=GitHub&color=ff5500&label=Version">
+  <img src="https://img.shields.io/badge/üynput-blue.svg?style=plastic&logo=FFMPEG&color=000000&label=Using">
+</p>
+
 ## General Information
 This program continuously presses enter on the keyboard, so we start and end a fall guys match continuously and appear AFK in-game. \
 Make sure you have the right game mode selected before starting the script!
