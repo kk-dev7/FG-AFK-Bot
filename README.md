@@ -1,3 +1,9 @@
+## General Information
+This program continuously presses enter on the keyboard, so we start and end a fall guys match continuously and appear AFK in-game. \
+Make sure you have the right game mode selected before starting the script!
+
+This script will 99% not get you banned, because other players will just think you're AFK since enter doesn't do anything in fall guys by default
+
 ## How to run
 
 First, download this repository as a .zip folder.
