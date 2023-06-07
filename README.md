@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png">
+</p>
+
 ## General Information
 This program continuously presses enter on the keyboard, so we start and end a fall guys match continuously and appear AFK in-game. \
 Make sure you have the right game mode selected before starting the script!
