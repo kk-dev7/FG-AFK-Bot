@@ -10,10 +10,10 @@
 </p>
 
 # IMPORTANT INFORMATION
-### This script does not work anymore, due to a change in the newest FG Client Update (v10.2.0):
+### FG Client Update (v10.2.0):
 > - New AFK detection feature : A pop-up will appear after 20 seconds, showing a 10 seconds countdown telling you to move : If you don't move, you will be kicked from the game, and an inactivity pop-up will appear once in the menu.
 
-If someone wants to continue this project, feel free to fork. For now, it is recommended to not use this script anymore. Have a nice day.
+Haven't tested it out yet... I might have to update this script.
 
 ## General Information
 This program continuously presses enter on the keyboard, so we start and end a fall guys match continuously and appear AFK in-game. \
