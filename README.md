@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/pynput-blue.svg?style=plastic&logo=PyPy&color=000000&label=Using">
 </p>
 
-# IMPORTANT INFORMATION
-### FG Client Update (v10.2.0):
+## FG Client Update (v10.2.0):
 > - New AFK detection feature : A pop-up will appear after 20 seconds, showing a 10 seconds countdown telling you to move : If you don't move, you will be kicked from the game, and an inactivity pop-up will appear once in the menu.
 
 Haven't tested it out yet... I might have to update this script.
