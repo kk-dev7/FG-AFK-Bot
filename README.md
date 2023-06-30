@@ -19,8 +19,16 @@ FallGuysIdleBot requires [Python 3](https://www.python.org/downloads/)
 
 Download the [latest release](https://github.com/kk-dev7/FallGuysIdleBot/releases/) of the bot and unpack it in the desired location.
 
-```shell 
-pip install -r requirements.txt # to install the required packages.
+```shell
+# Install the required packages:
+pip install -r requirements.txt
 ```
 
 ## Usage
+```shell
+# Windows:
+Double-click FallGuysIdleBot.py
+
+# Linux:
+python3 FallGuysIdleBot.py
+```
