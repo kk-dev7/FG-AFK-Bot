@@ -19,16 +19,8 @@ FallGuysIdleBot requires [Python 3](https://www.python.org/downloads/)
 
 Download the [latest release](https://github.com/kk-dev7/FallGuysIdleBot/releases/) of the bot and unpack it in the desired location.
 
-### Linux 
-- Python should already be installed on your computer. 
+```shell 
+pip install -r requirements.txt # to install the required packages.
+```
 
-- Use the console to navigate to the FG-AFK-Bot directory, enter `pip install -r requirements.txt` to install the required packages. \
-Then type `python3 FallGuysIdleBot` to start the script.
-
-### Windows
-- You need Python installed on your computer. \
-Download the latest version [here](https://www.python.org/downloads/) 
-
-- Then open Command Prompt, navigate to the FG-AFK-Bot directory and enter `python -m pip install -r requirements.txt` to install the required packages.
-
-- Finally, open Explorer, navigate to the FG-AFK-Bot directory, then double-click `FallGuysIdleBot` to run the script.
+## Usage
