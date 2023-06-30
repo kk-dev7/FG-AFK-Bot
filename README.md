@@ -15,7 +15,7 @@ Make sure you have the right game mode selected before starting the script!
 
 
 
-## How to run
+## Installation
 
 First, download this repository as a .zip folder.
 
