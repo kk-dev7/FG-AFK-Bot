@@ -14,10 +14,10 @@ FallGuysIdleBot simulates keyboard inputs to start and end Fall Guys matches. Th
 Make sure you have the right game mode selected before starting the script!
 
 
-
 ## Installation
+FallGuysIdleBot requires [Python 3](https://www.python.org/downloads/)
 
-Download the [latest release](https://github.com/kk-dev7/FallGuysIdleBot/releases/) and unpack it in the desired location.
+Download the [latest release](https://github.com/kk-dev7/FallGuysIdleBot/releases/) of the bot and unpack it in the desired location.
 
 ### Linux 
 - Python should already be installed on your computer. 
