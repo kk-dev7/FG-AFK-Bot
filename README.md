@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/pynput-blue.svg?style=plastic&logo=PyPy&color=000000&label=Using">
 </p>
 
-## General Information
-- This program continuously presses enter on the keyboard, so we start and end a fall guys match continuously and appear AFK in-game. \
-Make sure you have the right game mode selected before starting the script!
+# FallGuysIdleBot
+FallGuysIdleBot simulates keyboard inputs to start and end Fall Guys matches. This is useful for farming XP or completing quests. 
+You will 99% not get banned, because other players just think you're AFK since enter doesn't do anything in FG by default.
 
-- This script will 99% not get you banned, because other players will just think you're AFK since enter doesn't do anything in fall guys by default
+Make sure you have the right game mode selected before starting the script!
 
 ## How to run
 
