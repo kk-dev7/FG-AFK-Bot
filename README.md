@@ -15,7 +15,7 @@ Make sure you have the right game mode selected before starting the script!
 
 
 ## Installation
-FallGuysIdleBot requires [Python 3](https://www.python.org/downloads/)
+Python 3 is required. Download the newest version [here](https://www.python.org/downloads/).
 
 Download the [latest release](https://github.com/kk-dev7/FallGuysIdleBot/releases/) of the bot and unpack it in the desired location.
 
@@ -32,3 +32,9 @@ Double-click FallGuysIdleBot.py
 # Linux:
 python3 FallGuysIdleBot.py
 ```
+## FAQ
+#### Can this script get me banned?
+You will 99% not get banned, because other players just think you're AFK since enter doesn't do anything in FG by default.
+ 
+#### How can I customize this script?
+If you open the file with a text editor, you can edit the values for e.g. the key to press or the waiting time. 
