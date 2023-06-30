@@ -17,7 +17,7 @@ Make sure you have the right game mode selected before starting the script!
 
 ## Installation
 
-First, download this repository as a .zip folder.
+Download the latest release [here](https://github.com/kk-dev7/FallGuysIdleBot/releases/).
 
 ### Linux 
 - Python should already be installed on your computer. 
