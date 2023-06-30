@@ -1,4 +1,4 @@
-# FG_AFK_Bot.py
+# FallGuysIdleBot.py
 
 # IMPORTS
 from pynput.keyboard import Key, Controller  # importing pynput to control keyboard
