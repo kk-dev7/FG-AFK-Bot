@@ -38,3 +38,6 @@ You will 99% not get banned, because other players just think you're AFK since e
  
 #### How can I customize this script?
 If you open the file with a text editor, you can edit the values for e.g. the key to press or the waiting time. 
+
+#### Fall Guys released an update where AFK players are kicked out of the game... Does this script still work?
+The game does not kick you out of the match if you're using this script. 
