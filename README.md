@@ -9,11 +9,13 @@
   <img src="https://img.shields.io/badge/pynput-blue.svg?style=plastic&logo=PyPy&color=000000&label=Using">
 </p>
 
-# FallGuysIdleBot
-FallGuysIdleBot simulates keyboard inputs to start and end Fall Guys matches. This is useful for farming XP or completing quests. 
-You will 99% not get banned, because other players just think you're AFK since enter doesn't do anything in FG by default.
+<p align="center">
+FallGuysIdleBot simulates keyboard inputs to start and end Fall Guys matches. This is useful for farming XP or completing quests.
 
+<p align="center">
 Make sure you have the right game mode selected before starting the script!
+
+
 
 ## How to run
 
