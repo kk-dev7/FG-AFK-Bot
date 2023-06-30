@@ -11,8 +11,6 @@
 
 <p align="center">
 FallGuysIdleBot simulates keyboard inputs to start and end Fall Guys matches. This is useful for farming XP or completing quests.
-
-<p align="center">
 Make sure you have the right game mode selected before starting the script!
 
 
